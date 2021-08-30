@@ -23,7 +23,7 @@ Growth Mindset is the ability to see adversity and chanllenges as pumps to growt
 
 ### Growth Minset Reminders
 1. Rome was not built in a day. Amything worth having is worth working for and should be built with time and effort. 
-2. Tomas Edison said 
->"I didnt fail, I just found 10,000 ways to not make a light bulb" Edison took his failures as a temporary thing thich would lead to the eventual result he wanted.
+2. There is a famous quote on the invention of the lightbulb in which Edison shows that a failure isnt really a fialure if you learn form it and move forward. The Quote is:
+>"I didnt fail, I just found 10,000 ways to not make a light bulb" 
 4. Personally when I joined the military I wasnt sure I would pass MArine Corps Bootcamp but eventually I did and excelled at many differnt areas including holding a lleadership position for alot of time there. imes get hard but if you can put one fooot in front of the other then it isnt over.
 
