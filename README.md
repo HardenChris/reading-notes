@@ -22,6 +22,8 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 -Reading 7
 -Reading 8
 
+
+
 # This is a Heading 2
 ## This is a heading 3
 
