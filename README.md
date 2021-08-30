@@ -19,7 +19,7 @@ Hello, I am Chris
 >this is how you quote
 
 ### What Growth Mindset Means To Me?
-Growth Mindset is the ability to see adversity and chanllenges as pumps to growth. It ia the ability to see issues as an opportunity instead of a dead end.
+Growth Mindset is the ability to see adversity and challenges as bumps on the road to growth. It is the ability to see issues as an opportunity instead of a dead end.
 
 ### Growth Minset Reminders
 1. Rome was not built in a day. Amything worth having is worth working for and should be built with time and effort. 
