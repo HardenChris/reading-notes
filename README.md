@@ -1,5 +1,6 @@
 #Intro
-Hello, I am Chris 
+Hi, my name is what? My name is who? My name is Chris Harden. (Yes this isnt super professional but I figured for the assignment a little fun was in order. I will change this later) 
+My URL:  
 
 # This is my reading notes repo
 
