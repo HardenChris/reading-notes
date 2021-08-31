@@ -5,3 +5,5 @@ Some Text editors have nice features such as Complete which tries to predict how
 All computers come with their own text editors but they are bare bones and not as easily usable.
 
 The author gives a general overview of all the bigger text editors and the differences between Text editors and IDEs (Integrated Development Environment).
+
+[<===Back>](README.md) 
