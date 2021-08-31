@@ -13,14 +13,14 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 
 # This is my reading notes repo
 
--Reading 1
--Reading 2
--Reading 3
--Reading 4
--Reading 5
--Reading 6
--Reading 7
--Reading 8
+-[Markdown](markdown.md)
+-[Text Editors](texteditor.md)
+-[Revisions](revisions.md)
+-[Struture of HTML](HTMLstruct.md)
+-[Design web page w/CSS](design_css.md)
+-[Dynamic JavaScript](java_pages.md)
+-[Programming w/JavaScript](prog_java.md)
+-[Operators Loops](op_loop.md)
 
 
 
