@@ -1,6 +1,6 @@
 # Git Tutorial: A comprehensive Guide
 
-Git is an offspring of Bitkeeper, which I no longer in use. One of the main features of ‘Git’ is version control. Version control is keeping track of multiple changes to a file(s) to see changes and iterations. Previous versions of version control include Local Version control - hich was simplistic but had no redundancies, Centralized Version Control Systems(CVCS), and Distributed Version Control Systems (DVCS). DVCS are notable since they are redundant in the sense that repos are not kept local but on multiple servers with backups so there will always be access to them in any case.
+Git is an offspring of Bitkeeper, which I no longer in use. One of the main features of ‘Git’ is version control. Version control is keeping track of multiple changes to a file(s) to see changes and iterations. Previous versions of version control include Local Version control - which was simplistic but had no redundancies, Centralized Version Control Systems (CVCS), and Distributed Version Control Systems (DVCS). DVCS are notable since they are redundant in the sense that repos are not kept local but on multiple servers with backups so there will always be access to them in any case.
 
 Git is a DVCS which uses commits to annotate changes and track files. Commits are an image of how a file looks at a given moment in time. Because Git tracks changes it can compare every change against the main and hopefully catch and errors or flaws. In Git data can only be in three possible stages, staged, modified, or committed.
 
