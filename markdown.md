@@ -3,6 +3,8 @@ Markdown is a simple code source format used to create a simplistic website. The
 instead of saying "Title" you would write `#Title`
 adding the # makes the text large and shows it is a heading.
 
+List of common code:
+
 # 			- H1 Largest Header
 ##			- H2 Middle Header
 ###			- H3 Smallest Header
