@@ -1,7 +1,9 @@
-Wireframe is a barebones no frill version of a website with no text or real information besides positioning. 
-Wire frames can be mae various ways form handdrawn, made form materials such as papers or done on a website/app. Keys to a good wireframe clarity, confidence, and simplicity.
+# HTML funny funny
+HTML – Hyper Text Markup Language, used to build many webpages, it consists of elements and tells the webpage how to display said information so we have a clean visual display. Structure of the building aka website. Used for myspace to add all of your fun modifications like music and falling art. Its all just simple text. Beginning of any HTML page is a wireframe which can be super simple or advance.
 
-parts of an HTML element
+Wireframe is a barebones no frill version of a website with no text or real information besides positioning.  Wire frames can be made various ways form hand-drawn, made form materials such as paper or done on a website/app. Keys to a good wireframe clarity, confidence, and simplicity.
+
+## Parts of an HTML element
 
 The opening tag – which has two parts the name of the element and the closing brackets
 
@@ -9,8 +11,7 @@ The closing tag – similar to the opening tag but includes a forward slash prec
 
 The content – the item that being utilized or manipulated
 
-The element – is all the pieces put together, so the opening tag, closing tag, 
-and content. They can also have attributes added on.
+The element – is all the pieces put together, so the opening tag, closing tag, and content. They can also have attributes added on.
 
 Nesting elements – when you inception an element inside of another element this is nesting
 
@@ -28,7 +29,14 @@ Empty elements – element with no content is considered an empty element
 
 \<body></body> - this contains all visual content on the website
 
-\<img url> - adding image 
+\<img url> -how to add an image
 
+\<p> -paragraph
 
-[<===Back>](README.md) 
+`<h1> - <h6>` - sub headers
+
+\<ul> - unordered list
+
+<\ol> -ordered list
+
+\<a> - links
