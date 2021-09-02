@@ -6,37 +6,37 @@ adding the # makes the text large and shows it is a heading.
 
 ## List of common code:
 
-\# 			            - H1 Largest Header
+* \# 			            - H1 Largest Header
 
-\##			            - H2 Middle Header
+* \##			            - H2 Middle Header
 
-\###			            - H3 Smallest Header
+* \###			            - H3 Smallest Header
 
-*/+/-			        - Unordered List
+* */+/-			        - Unordered List
 
-1./2./3.			    - Ordered List
+* 1./2./3.			    - Ordered List
 
-\*word*/_word_	        - Italic
+* \*word*/_word_	        - Italic
 
-\**word**/\__word__	    - bold
+* \**word**/\__word__	    - bold
 
-\**word***		        - all bold and italics
+* \**word***		        - all bold and italics
 
-\~word~			        - strike through
+* \~word~			        - strike through
 
-\`code code`		        - inline code
+* \`code code`		        - inline code
 
-\[show](URL)		        - Link URL with show title
+* \[show](URL)		        - Link URL with show title
 
-\[show](location)	    - Link file/directory with show title
+* \[show](location)	    - Link file/directory with show title
 
-\! \[Name](URL/Location)	- Embedded image
+* \! \[Name](URL/Location)	- Embedded image
 
-\[]/[X]			        - Task List incomplete/complete
+* \[]/[X]			        - Task List incomplete/complete
 
-\@name			        - Mentioning/referencing people/person
+* \@name			        - Mentioning/referencing people/person
 
-\ code \			    - ignore Markdown code
+* \ code \			    - ignore Markdown code
 
 
 

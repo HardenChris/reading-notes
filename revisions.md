@@ -6,25 +6,25 @@ Git is a DVCS that uses commits to annotate changes and track files. Commits are
 
 ## Notable commands in Git:
 
-$ git config –list - pulls config notes
+* $ git config –list - pulls config notes
 
-git help command
+* git help command
 
-git clone (url) - pulls a copy of repo to local
+* git clone (url) - pulls a copy of repo to local
 
-git clone (url) NewName - pulls a copy of repo and renames it locally
+* git clone (url) NewName - pulls a copy of repo and renames it locally
 
-git add (filename) - add the file to ACP
+* git add (filename) - add the file to ACP
 
-git add * - add all files to ACP
+* git add * - add all files to ACP
 
-git status - get status of repo in ACP steps
+* git status - get status of repo in ACP steps
 
-git commit -m “comments” - add comments to commit
+* git commit -m “comments” - add comments to commit
 
-git commit -a - commit all changes currently made
+* git commit -a - commit all changes currently made
 
-it pushes origin master - push all changes to git repo
+* git push origin master - push all changes to git repo
 
 
 
