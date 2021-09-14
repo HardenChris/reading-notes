@@ -12,7 +12,26 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 >"I didnt fail, I just found 10,000 ways to not make a light bulb" 
 4. Personally when I joined the military I wasnt sure I would pass Marine Corps bootcamp, but eventually I did and excelled at many differnt areas including holding a leadership position for alot of my time there. When times get hard if you can put one foot in front of the other then it isnt over.
 
-# This is my reading notes repo
+
+# Code 201 Reading Notes
+
+1. Intro to HTML and JS
+2. HTML, CSS, and JS
+3. HTML LI,OL, UO, Boxes of CSS, JS flow control
+4. HTML links, layouts w/ CSS, Funcs. in JS
+5. HTML images, CSS text and color
+6. JS objects, DOM
+7. HTML Tables, JS function constructor
+8. Continuing CSS layout
+9. Events & Forms
+10. JS Debug
+11. Asst. Topics
+12. Docs for HTML Charts and Elements
+13. Local Storage
+14. CSS Transitions, Animation, Transforms / Google and Teams
+15. Merge Conflicts w/ Alice, Bob, Ted, and Carol / Finish the BusMall application
+
+# Code 102 Reading Notes
 
 1. [Markdown](markdown.md)
 2. [Text Editors](texteditor.md)
