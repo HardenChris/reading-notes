@@ -28,7 +28,7 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 11. Asst. Topics
 12. Docs for HTML Charts and Elements
 13. Local Storage
-14. CSS Transitions, Animation, Transforms / Google and Teams
+14. CSS Transitions, Animation, Transforms / Google and tou
 15. Merge Conflicts w/ Alice, Bob, Ted, and Carol / Finish the BusMall application
 
 # Code 102 Reading Notes
