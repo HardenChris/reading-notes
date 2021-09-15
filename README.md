@@ -17,7 +17,7 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 
 # Code 201 Reading Notes
 
-1. Intro to HTML and JS
+1. [Intro to HTML and JS](class-01.md)
 2. [HTML, CSS, and JS](class-02.md)
 3. HTML LI,OL, UO, Boxes of CSS, JS flow control
 4. HTML links, layouts w/ CSS, Funcs. in JS
