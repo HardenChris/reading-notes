@@ -19,19 +19,19 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 
 1. [Intro to HTML and JS](class-01.md)
 2. [HTML, CSS, and JS](class-02.md)
-3. HTML LI,OL, UO, Boxes of CSS, JS flow control
+3. [HTML LI,OL, UO, Boxes of CSS, JS flow control](class-03.md)
 4. [HTML links, layouts w/ CSS, Funcs. in JS](class-04.md)
 5. [HTML images, CSS text and color](class-05.md)
-6. JS objects, DOM
-7. HTML Tables, JS function constructor
-8. Continuing CSS layout
-9. Events & Forms
-10. JS Debug
-11. Asst. Topics
-12. Docs for HTML Charts and Elements
-13. Local Storage
-14. CSS Transitions, Animation, Transforms / Google and tou
-15. Merge Conflicts w/ Alice, Bob, Ted, and Carol / Finish the BusMall application
+6. [JS objects, DOM](class-06.md)  
+7. [HTML Tables, JS function constructor](class-07.md)
+8. [Continuing CSS layout](class-08.md)
+9. [Events & Forms](class-09.md)
+10. [JS Debug](class-10.md)
+11. [Asst. Topics](class-11.md)
+12. [Docs for HTML Charts and Elements](class-10.md)
+13. [Local Storage](class-13.md)
+14. [CSS Transitions, Animation, Transforms / Google and tou](class-10.md)
+15. [Merge Conflicts w/ Alice, Bob, Ted, and Carol / Finish the BusMall application](class-10.md)
 
 # Code 102 Reading Notes
 

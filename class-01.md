@@ -27,6 +27,19 @@ HTML 5 has embedded code to allow older browsers to read it and convert items as
 ## PROCESS & DESIGN
 
 
+## THE ABC OF PROGRAMMING
+
+A script is a series of instructions that a computer can follow to achieve a goal. 
+
+Steps for writing a  script:
+1. Define the goal
+2. Design the script
+3. Code each step
+
+Objects - 
+
+
+
 
 ### Duckett, J (2011). HTML & CSS design and build websites,12-39, 176-199, 428-451 
 All definitions and information came from above listed publication.
