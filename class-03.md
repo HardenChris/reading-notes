@@ -4,13 +4,13 @@
 
 ### HTML provides three types of lists
 
-**Ordered Lists \<ol>- numbered lists**
+**Ordered Lists ```<ol>- numbered lists**
 
-* \<ol>
-* \<li> words
-* \<li> go
-* \<li> here
-* \<ol>
+* ```<ol>```
+* ```<li> words```
+* ```<li> go```
+* ```<li> here```
+* ```<ol>```
 
 would make a list that looks like this:
 
@@ -20,13 +20,13 @@ would make a list that looks like this:
 <br>
 <br>
 
-**Unordered Lists\<ul>- they use bullet points.**
+**Unordered Lists```<ul>- they use bullet points.**
 
-* \<ul>
-* \<li> Even
-* \<li> more
-* \<li> words
-* \<ul>
+* ```<ul>```
+* ```<li> Even```
+* ```<li> more```
+* ```<li> words```
+* ```<ul>
 
 will give you a list like this:
 
@@ -36,11 +36,12 @@ will give you a list like this:
 <br>
 <br>
 
-**Definition Lists\<dl>- are made of terms and their defintions.**
-* \<dl>
-* \<dt> Word \<dt>
-* \<dd> This is words definition.\<dd>l
-* \<dl>
+**Definition Lists```<dl>- are made of terms and their defintions.**
+
+* ```<dl>```
+* ```<dt>Word<dt>```
+* ```<dd>This is words definition.<dd>```
+* ```<dl>```
 
 this is how that code will look
 
@@ -62,10 +63,13 @@ list can be nested one inside of the other
 *dsiplay, visibility, border-image,box-shadow,border-radius 
 
 ## Chap 2 Basic JS instructions / JS & JQUERY
+
 Array stores lists of values. 
 
 ## Chap 4 Decisions and Loops / JS & JQUERY
+
 * **The If...else** statement checks on a condition
+
 * **Switch Statements** -starts with a variable called the switch value.Each case indicates a possible value for this variable and the ccode that should run if the variable matches that value.
 * **Type Coercion & Weak Typing** -JS will try to make values make sense. so if you type a 1 JS will try to figure out what you mean by it.
 * **Truthy & False values**  - 
