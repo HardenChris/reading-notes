@@ -2,11 +2,11 @@
 
 ## Ch. 4 - Links / HTML & CSS
 
-* **Links** -Are a major part of any webite. Links are the portals from page to page, or from one site to another,or from one part of a page to another. Example:
+* **Links** -Are a major part of any website. Links are the portals from page to page, or from one site to another, or from one part of a page to another. Example:
 
   * ```<a href="https://www.facebook.com">Facebook</a>```
 
-* **Directory Structure** - how you organize your directory. This is imprtant because a clear directory structure leads to a better clearer understanding of paths.
+* **Directory Structure** - how you organize your directory. This is important because a clear directory structure leads to a better clearer understanding of paths.
 
 * **root** - refers to the highest folder. the father of all fathers.
 
@@ -18,9 +18,9 @@
 
     - Child folder - for a child use the child folder name followed by a forward slash then file name.
 
-    - Grandchild folder - child name, forward slash, then name of grandchild folder, followed by a second forward slash.
+    - Grandchild folder - child name, forward slash, this name of grandchild folder, followed by a second forward slash.
 
-    - Parent folder - use ```../``` to indicate the folder above this one.Then file name.
+    - Parent folder - use ```../``` to indicate the folder above this one. Then file name.
 
     - Grandparent folder - ```../``` followed by another ```../``` then file name.
 
@@ -30,30 +30,31 @@
 
 ## Ch. 15 - Layout / HTML & CSS
 
-* **Builing Blocks** - Css treats each HTML element as if it is in its own box.
+* **Building Blocks** - Css treats each HTML element as if it is in its own box.
     - Block-Level Elements - starts on a new line
     - Inline Elements - Flow in between surrounding text
 
-* **Containing Elements** - if one block-level element sits inside another block-level element then the outer box is know as a parent or containing element.
+* **Containing Elements** - if one block-level element sits inside another block-level element then the outer box is knowm as a parent or containing element.
 
-* **Positioning Schemes** - allows you to control the layout of a page.
+* **Positioning Schemes** - this allows you to control the layout of a page.
 
     - Normal Flow - Every block-level element appears on a new line, causing each item to appear lower down the previous one. 
 
     - Relative Positioning -  moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed.
 
-    - Absolute Positioning - positions the elements in relation to its containing element. It is taken out of normal flow and does not affect surrounding elements.
+    - Absolute Positioning - positions the elements in relation to their containing element. It is taken out of the normal flow and does not affect surrounding elements.
 
     - Fixed Position - a form of absolute positioning positions the element in relation to the browser window, as opposed to the containing element.
 
-    - Floating Elements - an element allows you to take the element out of normal flow and position it to the far left or right of a containing box.
+    - Floating Elements - an element allows you to take the element out of the normal flow and position it to the far left or right of a containing box.
 
     - Z-index - is a property that controls which box appears on top.
 
 * **Page Sizes**  - web pages are usually designed after the standard 960-1000 pixels wide.
 
     - Fixed Width Layouts - does not change size as the user decreases or increases the size of the browser window. Usually are based on Pixels.
-    - Liquir layouts - will stretch and contract as the user decreases or increases the size of their bowser window. Usually use precentages.
+
+    - Liquid layouts - will stretch and contract as the user decreases or increases the size of their browser window. Usually use percentages.
 
 ## Ch. 3 Functions, Methods, & Objects / JS & JQUERY
 
@@ -78,19 +79,19 @@
 
 ## 6 Reasons for Pair Programming 
 
-* **Pair Programming** - is the process of two devs share one workstation and code together. Pair programming tends to gice many benefits including linting, fast feedback, code review, and more. The two roles are Driver and Navigator. Navigator teaches and guides while the Driver does all of the typing.
+* **Pair Programming** - is the process of two devs share one workstation and code together. Pair programming tends to give many benefits including linting, fast feedback, code review, and more. The two roles are Driver and Navigator. Navigator teaches and guides while the Driver does all of the typing.
 
 * The six points listed in the article are:
 
-    1. Greater efficency - coding together means less issues and foxes need to come later. 
+    1. Greater efficiency - coding together means fewer issues and fixes need to come later. 
 
-    2. Engaged Collaboration - When there is two coders working on one code they temd to make better choices and be more focused.
+    2. Engaged Collaboration - When there is two coders working on one code they tend to make better choices and be more focused.
 
-    3. Learing from a fellow srtudent - two minds are not alike so you both will think differnt.
+    3. Learning from a fellow student - two minds are not alike so you both will think differently.
 
     4. Social Skills - when you code you have to talk. simple as that.
 
-    5. Job interview ready - many jobs do a pair programming as a part of the hiring process.
+    5. Job interview ready - many jobs do pair programming as a part of the hiring process.
 
     6. Work environment ready - many companies teach new hires using pair programming.
 
@@ -102,4 +103,5 @@ Duckett, J (2011). JAVASCRIPT & JQUERY Interactive front-end web development ,86
 Grampa, Allie. "6 Reasons for Pair Programming"CodeFellows,CodeFellows, 24 August 2018,https://www.codefellows.org/blog/6-reasons-for-pair-programming/ 
 
 All definitions and information came from above listed publication.
+
 [<===Back>](README.md)
