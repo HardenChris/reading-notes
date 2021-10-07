@@ -28,10 +28,10 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 9. [Events & Forms](class-09.md)
 10. [JS Debug](class-10.md)
 11. [Asst. Topics](class-11.md)
-12. [Docs for HTML Charts and Elements](class-10.md)
+12. [Docs for HTML Charts and Elements](class-12.md)
 13. [Local Storage](class-13.md)
-14. [CSS Transitions, Animation, Transforms / Google and tou](class-10.md)
-15. [Merge Conflicts w/ Alice, Bob, Ted, and Carol / Finish the BusMall application](class-10.md)
+14. [CSS Transitions, Animation, Transforms / Google and tou](class-14a.md)
+15. [What Google Learned About The Perfect Team](class-14b.md)
 
 # Code 102 Reading Notes
 
