@@ -1,4 +1,6 @@
-# Layouts
+# Continuing CSS layout
+
+## Layouts
 
 * **Block-Level Elements** - start on a new line.   
 
