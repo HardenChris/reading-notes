@@ -3,14 +3,14 @@
 Welcome to my page. This page will be a resource of information with various notes from different articles, books, and sources. Having access to information and recalling information is easier when you can recall it easily. Please take a look around.
 ## Code 102 - Intro to Software Development
 
-1. [Markdown](markdown.md)
-2. [Text Editors](texteditor.md)
-3. [Revisions](revisions.md)
-4. [Struture of HTML](HTMLstruct.md)
-5. [Design web page w/CSS](design_css.md)
-6. [Dynamic JavaScript](java_pages.md)
-7. [Programming w/JavaScript](prog_java.md)
-8. [Operators Loops](op_loop.md)
+1. [Markdown](code_102/markdown.md)
+2. [Text Editors](code_102/texteditor.md)
+3. [Revisions](code_102/revisions.md)
+4. [Struture of HTML](code_102/HTMLstruct.md)
+5. [Design web page w/CSS](code_102/design_css.md)
+6. [Dynamic JavaScript](code_102/java_pages.md)
+7. [Programming w/JavaScript](code_102/prog_java.md)
+8. [Operators Loops](code_102/op_loop.md)
 ## Code 201 - Foundations of Software Development
 
 1. [Intro to HTML and JS](code_201/class-01.md)
