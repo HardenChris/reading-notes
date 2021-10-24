@@ -34,18 +34,18 @@ Welcome to my page. This page will be a resource of information with various not
 ## Code 401 - Advanced Software Development
 
 
-### What Growth Mindset Means To Me?
+**What Growth Mindset Means To Me?**
 
 Growth Mindset is the ability to see adversity and challenges as bumps on the road to growth. It is the ability to see issues as an opportunity instead of a dead end.
 
-### Growth Mindset Reminders
+**Growth Mindset Reminders**
 
 1. Rome was not built in a day. Anything worth having is worth working for and should be built with time and effort.
 2. There is a famous quote on the invention of the lightbulb in which Edison shows that a failure isn't really a failure if you learn form it and move forward. The Quote is:
    > "I didn't fail, I just found 10,000 ways to not make a light bulb"
 3. Personally when I joined the military I wasn't sure I would pass Marine Corps bootcamp, but eventually I did and excelled at many different areas including holding a leadership position for a lot of my time there. When times get hard if you can put one foot in front of the other then it isn't over.
 
-### My Name is...
+**My Name is...**
 
 Hi, my name is what? My name is who? My name is Chris Harden. (_Yes this is not super professional but I figured for the assignment a little fun was in order. I will change this later_)
 
