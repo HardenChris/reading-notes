@@ -64,7 +64,7 @@
 
 "Component-Based Architecture" tutorialspoint, <https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm>
 
-Nanwani, Rahul. "JPEG vs PNG vs GIF — which image format to use and when?" Blog ImageKit.io, 13 Nov 2016, <https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d>
+Eygi, Cem. "What is “Props” and how to use it in React?" itnext.io, 7 Oct 2019, <hhttps://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0>
 
 All definitions and information came from above listed publication(s).
 
