@@ -34,6 +34,7 @@ Welcome to my page. This page will be a resource of information with various not
 ## Code 301 - Intermediate Software Development
 
 1. [Intro to React and Components](code_301/read_01.md)
+2. [State and Props](code_301/read_02.md)
 
 ## Code 401 - Advanced Software Development
 

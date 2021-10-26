@@ -52,15 +52,15 @@
 
 **How are props used in React?**
 
-    1. Define an attribute and its data (value)
+1. Define an attribute and its data (value)
 
-    2. Pass the component using Props
+2. Pass the component using Props
 
-    3. Render the Data.
+3. Render the Data.
 
 **What is the flow of props?**
 
-    * Props transfer data uni-directional flow(one way only, from parent to child.)
+* Props transfer data uni-directional flow(one way only, from parent to child.)
 
 "Component-Based Architecture" tutorialspoint, <https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm>
 
