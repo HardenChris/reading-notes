@@ -1,6 +1,7 @@
 # Reading Notes
 
 Welcome to my page. This page will be a resource of information with various notes from different articles, books, and sources. Having access to information and recalling information is easier when you can recall it easily. Please take a look around.
+
 ## Code 102 - Intro to Software Development
 
 1. [Markdown](code_102/markdown.md)
@@ -11,6 +12,7 @@ Welcome to my page. This page will be a resource of information with various not
 6. [Dynamic JavaScript](code_102/java_pages.md)
 7. [Programming w/JavaScript](code_102/prog_java.md)
 8. [Operators Loops](code_102/op_loop.md)
+
 ## Code 201 - Foundations of Software Development
 
 1. [Intro to HTML and JS](code_201/class-01.md)
@@ -31,8 +33,11 @@ Welcome to my page. This page will be a resource of information with various not
 
 ## Code 301 - Intermediate Software Development
 
+1. [Intro to React and Components](code_301/read_01.md)
+
 ## Code 401 - Advanced Software Development
 
+## Things I want to know more about
 
 **What Growth Mindset Means To Me?**
 

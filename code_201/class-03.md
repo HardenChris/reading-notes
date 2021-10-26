@@ -26,7 +26,7 @@ would make a list that looks like this:
 * ```<li> Even```
 * ```<li> more```
 * ```<li> words```
-* ```<ul>
+* ```<ul>```
 
 will give you a list like this:
 
@@ -45,10 +45,8 @@ will give you a list like this:
 
 this is how that code will look
 
-
-Word 
+Word
 >This is words definition
-
 
 **NestedList**
 list can be nested one inside of the other
@@ -60,11 +58,11 @@ list can be nested one inside of the other
 * **Overflow** -tells the browser what to do  with contwent thats too big for the box. **Hidden** hides the spare content. **Scroll** makes the hidden content a scrollable section.
 * **Border, Margin, Padding** - paffing and margin adding properties for spacing. Some properties that can be changed:
 * border-width, border-style, border-color,
-*dsiplay, visibility, border-image,box-shadow,border-radius 
+*dsiplay, visibility, border-image,box-shadow,border-radius
 
 ## Chap 2 Basic JS instructions / JS & JQUERY
 
-Array stores lists of values. 
+Array stores lists of values.
 
 ## Chap 4 Decisions and Loops / JS & JQUERY
 
@@ -72,12 +70,11 @@ Array stores lists of values.
 
 * **Switch Statements** -starts with a variable called the switch value.Each case indicates a possible value for this variable and the ccode that should run if the variable matches that value.
 * **Type Coercion & Weak Typing** -JS will try to make values make sense. so if you type a 1 JS will try to figure out what you mean by it.
-* **Truthy & False values**  - 
+* **Truthy & False values**  -
 * **Loops** - check a condition. If it returns true, a code block will run. The condition will be checked again and if it returns true again it will run again. types of loops in Js are:
 * **For** - runs a loop a certain number of times.
 * **While** - runs a loop whiile a certain consition is true.
 * **Do While** - is very similiar to the while loop but will run at least once.
-
 
 Duckett, J (2011). HTML & CSS design and build websites,62-73,300-329 <br>
 Duckett, J (2011). JAVASCRIPT & JQUERY Interactive front-end web development ,70-73,162-182

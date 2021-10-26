@@ -14,47 +14,47 @@
 
 * **Relative URLs** -  used when going to a page inside of your own website. Relative URLs is a shorthand that shows you where the destination is at in relation to your current location.
 
-    - Same folder - just use the name nothing else is needed. 
+  * Same folder - just use the name nothing else is needed.
 
-    - Child folder - for a child use the child folder name followed by a forward slash then file name.
+  * Child folder - for a child use the child folder name followed by a forward slash then file name.
 
-    - Grandchild folder - child name, forward slash, this name of grandchild folder, followed by a second forward slash.
+  * Grandchild folder - child name, forward slash, this name of grandchild folder, followed by a second forward slash.
 
-    - Parent folder - use ```../``` to indicate the folder above this one. Then file name.
+  * Parent folder - use ```../``` to indicate the folder above this one. Then file name.
 
-    - Grandparent folder - ```../``` followed by another ```../``` then file name.
+  * Grandparent folder - ```../``` followed by another ```../``` then file name.
 
 * **Target** - opens a link in a new window. ```_blank``` should be assigned to Target. Example:
 
-    - ```<a href="https://www.facebook.com" target="_blank">```
+  * ```<a href="https://www.facebook.com" target="_blank">```
 
 ## Ch. 15 - Layout / HTML & CSS
 
 * **Building Blocks** - Css treats each HTML element as if it is in its own box.
-    - Block-Level Elements - starts on a new line
-    - Inline Elements - Flow in between surrounding text
+  * Block-Level Elements - starts on a new line
+  * Inline Elements - Flow in between surrounding text
 
 * **Containing Elements** - if one block-level element sits inside another block-level element then the outer box is knowm as a parent or containing element.
 
 * **Positioning Schemes** - this allows you to control the layout of a page.
 
-    - Normal Flow - Every block-level element appears on a new line, causing each item to appear lower down the previous one. 
+  * Normal Flow - Every block-level element appears on a new line, causing each item to appear lower down the previous one.
 
-    - Relative Positioning -  moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed.
+  * Relative Positioning -  moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed.
 
-    - Absolute Positioning - positions the elements in relation to their containing element. It is taken out of the normal flow and does not affect surrounding elements.
+  * Absolute Positioning - positions the elements in relation to their containing element. It is taken out of the normal flow and does not affect surrounding elements.
 
-    - Fixed Position - a form of absolute positioning positions the element in relation to the browser window, as opposed to the containing element.
+  * Fixed Position - a form of absolute positioning positions the element in relation to the browser window, as opposed to the containing element.
 
-    - Floating Elements - an element allows you to take the element out of the normal flow and position it to the far left or right of a containing box.
+  * Floating Elements - an element allows you to take the element out of the normal flow and position it to the far left or right of a containing box.
 
-    - Z-index - is a property that controls which box appears on top.
+  * Z-index - is a property that controls which box appears on top.
 
 * **Page Sizes**  - web pages are usually designed after the standard 960-1000 pixels wide.
 
-    - Fixed Width Layouts - does not change size as the user decreases or increases the size of the browser window. Usually are based on Pixels.
+  * Fixed Width Layouts - does not change size as the user decreases or increases the size of the browser window. Usually are based on Pixels.
 
-    - Liquid layouts - will stretch and contract as the user decreases or increases the size of their browser window. Usually use percentages.
+  * Liquid layouts - will stretch and contract as the user decreases or increases the size of their browser window. Usually use percentages.
 
 ## Ch. 3 Functions, Methods, & Objects / JS & JQUERY
 
@@ -77,13 +77,13 @@
 
     - you can get a single value out of a function or multiple values out of a function and into a array.
 
-## 6 Reasons for Pair Programming 
+## 6 Reasons for Pair Programming
 
 * **Pair Programming** - is the process of two devs share one workstation and code together. Pair programming tends to give many benefits including linting, fast feedback, code review, and more. The two roles are Driver and Navigator. Navigator teaches and guides while the Driver does all of the typing.
 
 * The six points listed in the article are:
 
-    1. Greater efficiency - coding together means fewer issues and fixes need to come later. 
+    1. Greater efficiency - coding together means fewer issues and fixes need to come later.
 
     2. Engaged Collaboration - When there is two coders working on one code they tend to make better choices and be more focused.
 
@@ -95,12 +95,11 @@
 
     6. Work environment ready - many companies teach new hires using pair programming.
 
-
 Duckett, J (2011). HTML & CSS design and build websites, 74-93,358-404
 
 Duckett, J (2011). JAVASCRIPT & JQUERY Interactive front-end web development ,86-99
 
-Grampa, Allie. "6 Reasons for Pair Programming"CodeFellows,CodeFellows, 24 August 2018,https://www.codefellows.org/blog/6-reasons-for-pair-programming/ 
+Grampa, Allie. "6 Reasons for Pair Programming"CodeFellows,CodeFellows, 24 August 2018,<https://www.codefellows.org/blog/6-reasons-for-pair-programming/>
 
 All definitions and information came from above listed publication.
 

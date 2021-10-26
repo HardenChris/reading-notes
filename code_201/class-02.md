@@ -7,7 +7,7 @@
 - HTML has six levels of headings from ```<h1>``` to ```<h6>```. H6 being the smallest.
 
 - Paragraphs are made by surrounding the text in a opening ```<p>``` and closing ```</p>```.
-- The same thing can be done with Bold ```<b>```, Italics ```<i>```, Superscript 
+- The same thing can be done with Bold ```<b>```, Italics ```<i>```, Superscript
 ```<sup>```, and Subscript ```<sub>```.
 
 - White space left in code will generally be treated as one space even if its multiple spaces or lines apart.
