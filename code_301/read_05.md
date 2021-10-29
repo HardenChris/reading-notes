@@ -1,7 +1,31 @@
+# Putting it all together
 
-"Component-Based Architecture" tutorialspoint, <https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm>
+## Reacy Docs - Thinking in React
 
-Eygi, Cem. "What is “Props” and how to use it in React?" itnext.io, 7 Oct 2019, <https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0>
+What is the single responsibility principle and how does it apply to components?
+
+-  component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents. 
+
+What does it mean to build a ‘static’ version of your application?
+
+- just renders data and nothing else. no inyteractivity
+
+Once you have a static application, what do you need to add?
+
+- components?
+
+What are the three questions you can ask to determine if something is state?
+How can you identify where state needs to live?
+## High-Order Func
+
+What is a “higher-order function”?
+Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+Explain how either map or reduce operates, with regards to higher-order functions.
+
+
+"Thinking in React" reactjs, <https://reactjs.org/docs/thinking-in-react.html>
+
+"Higher-Order Functions" eloquent, <https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK>
 
 All definitions and information came from above listed publication(s).
 
