@@ -7,7 +7,7 @@ Welcome to my page. This page will be a resource of information with various not
 1. [Markdown](code_102/markdown.md)
 2. [Text Editors](code_102/texteditor.md)
 3. [Revisions](code_102/revisions.md)
-4. [Struture of HTML](code_102/HTMLstruct.md)
+4. [Structure of HTML](code_102/HTMLstruct.md)
 5. [Design web page w/CSS](code_102/design_css.md)
 6. [Dynamic JavaScript](code_102/java_pages.md)
 7. [Programming w/JavaScript](code_102/prog_java.md)
@@ -38,6 +38,7 @@ Welcome to my page. This page will be a resource of information with various not
 3. [Passing Functions as Props](code_301/read_03.md)
 4. [React and Forms]
 5. [Putting it all together](code_301/read_05.md)
+11. [Mongo and Mongoose](code_301/read_11.md)
 
 ## Code 401 - Advanced Software Development
 
@@ -52,7 +53,7 @@ Growth Mindset is the ability to see adversity and challenges as bumps on the ro
 1. Rome was not built in a day. Anything worth having is worth working for and should be built with time and effort.
 2. There is a famous quote on the invention of the lightbulb in which Edison shows that a failure isn't really a failure if you learn form it and move forward. The Quote is:
    > "I didn't fail, I just found 10,000 ways to not make a light bulb"
-3. Personally when I joined the military I wasn't sure I would pass Marine Corps bootcamp, but eventually I did and excelled at many different areas including holding a leadership position for a lot of my time there. When times get hard if you can put one foot in front of the other then it isn't over.
+3. Personally when I joined the military I wasn't sure I would pass Marine Corps boot camp, but eventually I did and excelled at many different areas including holding a leadership position for a lot of my time there. When times get hard if you can put one foot in front of the other then it isn't over.
 
 **My Name is...**
 
