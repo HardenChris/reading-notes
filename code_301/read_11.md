@@ -4,13 +4,13 @@
 
 * SQL database are called Relational Database (RDBMS) vs NoSQL are called non-relational/distributed database.
 
-* SQL database are based on tables vs NoSQL are based on document based, graph database, key-value pairs, wide-column stores.
+* SQL databases are based on tables vs NoSQL are based on document-based, graph databases, key-value pairs, wide-column stores.
 
-* SQL database have predefined schema vs NoSQL   are dynamic schema  for data that is unstructured.
+* SQL databases have a predefined schema vs NoSQL is a dynamic schema for data that is unstructured.
 
-* SQL database are scaled vertically vs NoSQL which scaled horizontally.
+* SQL databases are scaled vertically vs NoSQL which is scaled horizontally.
 
-* SQL data base use Structured Query Language (SQL) for manipulating and defining the data vs NoSQL  queries are focused on collections of documents.
+* SQL databases use Structured Query Language (SQL) for manipulating and defining the data vs NoSQL queries are focused on collections of documents.
 
 * What kind of data is a good fit for an SQL database?
   * data which is displayed as numbers and rows or heavy duty transactional type applications.
@@ -34,7 +34,7 @@
   * Structured Query Language - ex: `SELECT id, name, price FROM products`
 
 * What is a relational database?
-  * works with certain assumptions or pre designed set up
+  * works with certain assumptions or pre-designed setup
 
 * What type of structure does a relational database work with?
   * relational schema like 'one-to-one', 'onw-to-many', 'many-to-many'
@@ -52,10 +52,10 @@
   * Database, Collections, Documents
 
 * Which is more flexible - SQL or MongoDB? and why.
-  * SQL has schema which makes it easy to use but oSQL has less rules.
+  * SQL has a schema that makes it easy to use but SQL has fewer rules.
 
 * What is the disadvantage of a NoSQL database?
-  * No relations, can have different levels of data compared to other data around it.
+  * No relations can have different levels of data compared to other data around it.
 
 ## Things I want to know more about
 
