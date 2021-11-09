@@ -1,7 +1,20 @@
+# In memory storage
 
-"Component-Based Architecture" tutorialspoint, <https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm>
+## The JavaScript Call Stack - What It Is and Why It's Necessary
 
-Eygi, Cem. "What is “Props” and how to use it in React?" itnext.io, 7 Oct 2019, <https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0>
+* What is a ‘call’?
+    * call stack is primarily used for function innovation
+    
+* How many ‘calls’ can happen at once?
+* What does LIFO mean?
+* Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+* What causes a Stack Overflow?
+
+
+
+Freeborn, Charles. "The JavaScript Call Stack - What It Is and Why It's Necessary" freecodecamp, 11 Jan 2018, <https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/>
+
+Freeborn, Charles. "The JavaScript Call Stack - What It Is and Why It's Necessary" freecodecamp, 11 Jan 2018, <https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/>
 
 All definitions and information came from above listed publication(s).
 

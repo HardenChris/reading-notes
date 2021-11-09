@@ -44,6 +44,7 @@ Welcome to my page. This page will be a resource of information with various not
 9. [FUNCTIONAL PROGRAMMING]
 10. [In memory storage]
 11. [Mongo and Mongoose](code_301/read_11.md)
+12. [CRUD](code_301/read_12.md)
 
 ## Code 401 - Advanced Software Development
 
