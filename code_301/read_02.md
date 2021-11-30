@@ -6,7 +6,7 @@
 
 - Render comes first
 
-- render > React updates DOM abd refs > componentDidMount
+- render > React updates DOM and refs > componentDidMount
 
 **What is the very first thing to happen in the lifecycle of React?**
 
@@ -18,13 +18,13 @@
 
 **What does componentDidMount do?**
 
-- is invoked after a component is mounted. loads network requests or start the DOM.
+- is invoked after a component is mounted. loads network requests or starts the DOM.
 
 ## React State Vs Props
 
 **What types of things can you pass in the props?**
 
-- arguments, displayed information like titles and subtitles,
+- arguments displayed information like titles and subtitles,
 
 **What is the big difference between props and state?**
 
