@@ -10,16 +10,16 @@
 
 ```const numbers = [1, 2, 3, 4, 5];```<br>
 ```const listItems = numbers.map((numbers) =>```<br>
-```  <li>{numbers}</li>```<br>
+```<li>{numbers}</li>```<br>
 ```);```<br>
 ```ReactDOM.render(```<br>
-```  <ul>{listItems}</ul>,```<br>
-```  document.getElementById('root')```<br>
+```<ul>{listItems}</ul>,```<br>
+```document.getElementById('root')```<br>
 ```);```<br>
 
 **Each list item needs a unique ____.**
 
-- key 
+- key
 
 **What is the purpose of a key?**```
 
@@ -29,7 +29,7 @@
 
 **What is the spread operator?**
 
-- allows for an arrays and other iterables to be to expands it to see/access individual elements.
+- allows for arrays and other iterables to be expanded to see/access individual elements.
 
 **List 4 things that the spread operator can do.**
 
@@ -61,15 +61,15 @@
 
 **In the video, what is the first step that the developer does to pass functions between components?**
 
-- first he creates a function where he wants the state to change.
+- first, he creates a function where he wants the state to change.
 
 **In your own words, what does the increment function do?**
 
-- increment is a function that looks at the people state array and looks for the corresponding person to increase the count on that persons name. Every time the persons name is selected their 'count' counter will increase by one. 
+- The increment is a function that looks at the people state array and looks for the corresponding person to increase the count on that person's name. Every time the person's name is selected their 'count' counter will increase by one.
 
 **How can you pass a method from a parent component into a child component?**
 
-- by using props. in the video he passes increment as a function with ```this.props.increment(this.props.name)```
+- by using props. in the video, he passes increment as a function with ```this.props.increment(this.props.name)```
 
 **How does the child component invoke a method that was passed to it from a parent component?**
 
@@ -77,13 +77,12 @@
 
 ## Things I want to know more about
 
-
 "Lists and Keys" reactjs, <https://reactjs.org/docs/lists-and-keys.html>
 
 Dr. Austin, Derek. "How to Use the Spread Operator (…) in JavaScript" medium, 4 Oct 2019, <https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab>
 
-"React - How to Pass Functions between Components - Episode 22" YouTube, uploaded by 
-Steve Griffith - Prof3ssorSt3v3, 22 Oct 2018, https://www.youtube.com/watch?v=c05OL7XbwXU.
+"React - How to Pass Functions between Components - Episode 22" YouTube, uploaded by
+Steve Griffith - Prof3ssorSt3v3, 22 Oct 2018, <https://www.youtube.com/watch?v=c05OL7XbwXU>.
 
 All definitions and information came from above listed publication(s).
 
