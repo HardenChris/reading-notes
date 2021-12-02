@@ -8,7 +8,7 @@
 
 2. Should we wait to store the user's responses from the form into a state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
 
-- Making changes while they are being input is faster response and is the new norm.
+- Making changes while they are being input is a faster response and is the new norm.
 
 3. How do we target what the user is entering if we have an event handler on an input field?
 
