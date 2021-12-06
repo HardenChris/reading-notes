@@ -38,7 +38,7 @@ Welcome to my page. This page will be a resource of information with various not
 3. [Passing Functions as Props](code_301/read_03.md)
 4. [React and Forms](code_301/read_04.md)
 5. [Putting it all together](code_301/read_05.md)
-6. [NODE.JS]
+6. [NODE.JS](code_301/read_06.md)
 7. [REST]
 8. [APIs]
 9. [FUNCTIONAL PROGRAMMING]
