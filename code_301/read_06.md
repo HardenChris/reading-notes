@@ -36,7 +36,7 @@
 
     - Running JS in server in an effective way.
 
-    ![Node.js](./assets/images/1516152673node_event_loop.webp)
+    ![Node.js](https://uploads.sitepoint.com/wp-content/uploads/2012/10/1516152673node_event_loop.png)
     (Source: Introduction To Node.js by Prof. Christian Maderazo, James Santos)
 
 ## 6 Reasons for Pair Programming
