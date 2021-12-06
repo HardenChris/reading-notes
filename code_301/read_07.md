@@ -2,7 +2,7 @@
 
 1. Who is Roy Fielding?
 
-    - "Some Guy. He's smart" lol.jk jk. (He was a programmer who wrote some of the first web servers that actually sent docs across the web. He followed this up by doing alot of research and explaining why the internet works the way it does.)
+    - "Some Guy. He's smart" lol. Jk jk. (He was a programmer who wrote some of the first web servers that actually sent docs across the web. He followed this up by doing alot of research and explaining why the internet works the way it does.)
 
 2. Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
