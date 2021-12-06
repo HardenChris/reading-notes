@@ -39,10 +39,10 @@ Welcome to my page. This page will be a resource of information with various not
 4. [React and Forms](code_301/read_04.md)
 5. [Putting it all together](code_301/read_05.md)
 6. [NODE.JS](code_301/read_06.md)
-7. [REST]
-8. [APIs]
-9. [FUNCTIONAL PROGRAMMING]
-10. [In memory storage]
+7. [REST](code_301/read_07.md)
+8. [APIs](code_301/read_08.md)
+9. [FUNCTIONAL PROGRAMMING](code_301/read_09.md)
+10. [In memory storage](code_301/read_10.md)
 11. [Mongo and Mongoose](code_301/read_11.md)
 12. [CRUD](code_301/read_12.md)
 
