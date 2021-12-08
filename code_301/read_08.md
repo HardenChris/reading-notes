@@ -48,7 +48,7 @@
     * code 204(no content)
 
 
-"https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design" docs.Microsoft, <https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design>
+"RESTful web API design" docs.Microsoft, <https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design>
 
 All definitions and information came from the above-listed publication(s).
 
