@@ -38,6 +38,8 @@
 
 - counters, fill forms,
 
+## Things I want to know more about
+
 Blankenship, Joshua. "What is “React: Component Lifecycle Events" medium, 9 Jul 2018, <https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093>
 
 "React State Vs Props" YouTube, uploaded by Web Dev Simplified, 27 Aug 2019, www.youtube.com/watch?v=IYvD9oBCuJI.

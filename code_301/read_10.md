@@ -10,7 +10,7 @@
 * Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 * What causes a Stack Overflow?
 
-
+## Things I want to know more about
 
 Freeborn, Charles. "The JavaScript Call Stack - What It Is and Why It's Necessary" freecodecamp, 11 Jan 2018, <https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/>
 

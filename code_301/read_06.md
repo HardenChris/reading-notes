@@ -58,6 +58,9 @@
 
     - Pair programming works by having one person code while another person speaks. The one on the keyboard is called the Driver while the person explaining/directing is called the navigator.
 
+
+## Things I want to know more about
+
 Hibbard, James "What is “What Is Node and When Should I Use It?" sitepoint, 16 Feb 2020, <https://www.codefellows.org/blog/6-reasons-for-pair-programming/>
 
 Grampa, Allie "6 Reasons for Pair Programming" CodeFellows, 24 Aug 2018, <https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0>

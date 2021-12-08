@@ -22,6 +22,7 @@ What is a “higher-order function”?
 Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 Explain how either map or to reduce operates, with regards to higher-order functions.
 
+## Things I want to know more about
 
 "Thinking in React" reactjs, <https://reactjs.org/docs/thinking-in-react.html>
 

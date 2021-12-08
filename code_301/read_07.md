@@ -28,6 +28,8 @@
 
     - does a partial update.
 
+## Things I want to know more about    
+
 Tomayko, Ryan "A Conversation about REST with my brother" GitHubGist, <https://gist.github.com/brookr/5977550>
 
 All definitions and information came from the above-listed publication(s).
