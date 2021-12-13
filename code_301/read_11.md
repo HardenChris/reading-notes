@@ -1,16 +1,14 @@
 # Mongo and Mongoose
 
-## SQL vs NoSQL
+## NoSQL vs SQL
 
-* SQL database are called Relational Database (RDBMS) vs NoSQL are called non-relational/distributed database.
-
-* SQL databases are based on tables vs NoSQL are based on document-based, graph databases, key-value pairs, wide-column stores.
-
-* SQL databases have a predefined schema vs NoSQL is a dynamic schema for data that is unstructured.
-
-* SQL databases are scaled vertically vs NoSQL which is scaled horizontally.
-
-* SQL databases use Structured Query Language (SQL) for manipulating and defining the data vs NoSQL queries are focused on collections of documents.
+| SQL                                                                                       | NoSQL                                                                                     |
+|------------------------------------------------------------------------------------------ |------------------------------------------------------------------------------------------ |
+| SQL database are called Relational Database (RDBMS)                                       | NoSQL are called non-relational/distributed database.                                     |
+| SQL databases are based on tables                                                         | NoSQL is based on document-based, graph databases, key-value pairs, wide-column stores.  |
+| SQL databases have a predefined schema                                                    | NoSQL is a dynamic schema for data that is unstructured.                                  |
+| SQL databases are scaled vertically                                                       | NoSQL which is scaled horizontally.                                                       |
+| SQL databases use Structured Query Language (SQL) for manipulating and defining the data  | NoSQL queries are focused on collections of documents.                                    |
 
 * What kind of data is a good fit for an SQL database?
   * data which is displayed as numbers and rows or heavy-duty transactional type applications.
@@ -29,6 +27,8 @@
 
 * Which type of database is best for scalability?
   * Vertically SQL, horizontally NoSQL
+
+## SQL vs NoSQL
 
 * What does SQL stand for?
   * Structured Query Language - ex: `SELECT id, name, price FROM products`
