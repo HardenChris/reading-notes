@@ -17,7 +17,7 @@
 * What code would you use if a resource used to exist but no longer does?
   * 410 Gone
 * What is the ‘Forbidden’ status code?
-  * 403 - the client client does not have permission to access.
+  * 403 - the client does not have permission to access.
 
 ## Build A REST API With Node.js, Express, & MongoDB - Quick
 
@@ -36,7 +36,7 @@
 * What does a 500 error status code mean?
   * error on the server. No issue on the client-side.
 * What is the difference between a status 200 and a status 201?
-  * 201 is more specific that you created something and it was successful.
+  * 201 is more specific and shows that you created something and it was successful.
 
 ## Things I want to know more about
 
