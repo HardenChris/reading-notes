@@ -4,10 +4,10 @@
 
 | SQL                                                                                       | NoSQL                                                                                     |
 |------------------------------------------------------------------------------------------ |------------------------------------------------------------------------------------------ |
-| SQL database are called Relational Database (RDBMS)                                       | NoSQL are called non-relational/distributed database.                                     |
+| SQL databases are called Relational Database (RDBMS)                                       | NoSQL are called non-relational/distributed database.                                     |
 | SQL databases are based on tables                                                         | NoSQL is based on document-based, graph databases, key-value pairs, wide-column stores.  |
 | SQL databases have a predefined schema                                                    | NoSQL is a dynamic schema for data that is unstructured.                                  |
-| SQL databases are scaled vertically                                                       | NoSQL which is scaled horizontally.                                                       |
+| SQL databases are scaled vertically                                                       | NoSQL is scaled horizontally.                                                       |
 | SQL databases use Structured Query Language (SQL) for manipulating and defining the data  | NoSQL queries are focused on collections of documents.                                    |
 
 * What kind of data is a good fit for an SQL database?
