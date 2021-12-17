@@ -45,6 +45,8 @@ Welcome to my page. This page will be a resource of information with various not
 10. [In memory storage](code_301/read_10.md)
 11. [Mongo and Mongoose](code_301/read_11.md)
 12. [CRUD](code_301/read_12.md)
+13. [Diversity & Inclusion in the Tech Industry](code_301/read_13.md)
+14. [Authentication](code_301/read_14.md)
 
 ## Code 401 - Advanced Software Development
 
