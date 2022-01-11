@@ -49,6 +49,11 @@ Welcome to my page. This page will be a resource of information with various not
 14. [Authentication](code_301/read_14.md)
 
 ## Code 401 - Advanced Software Development
+1. [Node Ecosystem, TDD, CI/CD](code_401/lesson_01.md)
+2.[]
+3.[]
+4.[]
+5.[]
 
 ## Things I want to know more about
 

@@ -1,6 +1,6 @@
-# INode Ecosystem, TDD, CI/CD
+# Node Ecosystem, TDD, CI/CD
 
-## Component-Based Architecture
+## Review, Research, and Discussion
 
 1. Describe (in plain English) what Array.map() does]
 
