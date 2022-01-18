@@ -5,7 +5,7 @@
     - Redirect to a third party authentication endpoint
     - Register your application to get a client_id and client_secret
     - Make a request to a third-party API endpoint
-     - Ask the client if they want to sign in via a third party
+    - Ask the client if they want to sign in via a third party
     - Receive authorization code
     - Make a request to the access token endpoint
 2. What can you do with an authorization code?
@@ -25,11 +25,11 @@ Access Token -
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 3. What are you most excited about trying to implement or see how it works?
 
-"Array.prototype.map()" MDN Web Docs, <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map>
+"What is JWT ? JSON Web Token Explained" YouTube, uploaded by Bitfumes, 6 Feb 2018, <https://www.youtube.com/watch?v=926mknSW9Lo>.
 
-"Array.prototype.reduce()" MDN Web Docs, <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce>
+"Introduction to JSON Web Tokens" jwt.io, <https://jwt.io/introduction/>
 
-"SuperAgent" VisionMedia, <https://visionmedia.github.io/superagent/>
+"If you can decode JWT, how are they secure?" Stackoverflow, <https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure>
 
 "NPM JS" npmjs, <https://www.npmjs.com/package/superagent>
 
