@@ -13,6 +13,7 @@
 ### What on Earth is Recursion
 
 - Recursions do not work without an exit code for so there is not an endless loop.
+- So really im not sure but im learning.
 
 ## Define
 
