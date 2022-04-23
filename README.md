@@ -48,12 +48,15 @@ Welcome to my page. This page will be a resource of information with various not
 13. [Diversity & Inclusion in the Tech Industry](code_301/read_13.md)
 14. [Authentication](code_301/read_14.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development - JS
 1. [Node Ecosystem, TDD, CI/CD](code_401/lesson_01.md)
 2.[]
 3.[]
 4.[]
 5.[]
+
+
+## Code 401 - Advanced Software Development - Python
 
 ## Things I want to know more about
 
